@@ -46,3 +46,11 @@ Run the Application
 
 
 ## Demo
+
+
+https://user-images.githubusercontent.com/109697090/198707030-7a479bd2-3840-40bc-b227-cc52b7106c8b.mp4
+
+## Screenshot
+
+![Desktop Screenshot 2022 10 28 - 11 23 13 16](https://user-images.githubusercontent.com/109697090/198707175-39c734f4-05d3-4a5e-91c5-fb6236c4c866.png)
+
